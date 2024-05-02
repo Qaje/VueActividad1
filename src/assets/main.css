@@ -1,0 +1,21 @@
+.dias{
+    color: white;
+    padding: 4px 17px;
+    font-size: 0.9em;
+    border-radius: 4px;
+    margin: 5px 0 10px;
+    display: inline-block;
+}
+.oferta {
+    width: 65px;
+    height: 100px;
+    margin: 12px 5px;
+
+}
+.ofertaTag img{
+    width: 10px;
+    height: 10px;
+    margin: 10px 10px;
+
+}
+
